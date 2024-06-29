@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Yavanika Balaga
+😄 Pronouns: She/her
 <!--
 **balaga-yavanika/balaga-yavanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
