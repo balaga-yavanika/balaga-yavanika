@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Yavanika Balaga</h1>
 <h3 align="left">A passionate Data Analyst</h3>
+<h4>🌱 I’m currently learning: <str>Data Skills</em></h4>
+
 <hr></hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
