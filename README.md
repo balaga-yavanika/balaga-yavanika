@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Yavanika Balaga</h1>
+<h1 align="left">Hi 👋, I'm Yavanika b</h1>
 <h3 align="left">⚜ A passionate DA ⚜<h3>
 <h4>🌱 I’m currently learning: <str>Data Skills</em></h4>
 
