@@ -2,6 +2,8 @@
 <h3 align="left">⚜ A passionate DA ⚜<h3>
 <h4>🌱 I’m currently learning: <str>Data Skills</em></h4>
 
+<h5>🥂 Thanks for stopping by. 🥂</h5>
+
 <hr></hr>
 <!--
 <h3 align="left">Connect with me:</h3>
