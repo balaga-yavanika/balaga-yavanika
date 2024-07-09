@@ -1,15 +1,10 @@
-<style>
-.noline{ 
-    display: inline;
-    border-bottom: none;
-}
-</style>
+
 
 ![Header](github-header-image.png)
-<h2 class="noline" align="left">
-Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" style=" vertical-align:bottom"/>,<br>
+<h3 class="noline" align="left">
+Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" style=" vertical-align:bottom"/>,</h3>
 <h1 style="font-size: 40px">I'm Yavanika Balaga.</h1>
-</h2>
+
 
 <!-- <img src="octocat-1720527709084.png" width="90" height="auto" /> -->
 <!-- <img src="octocat-1720527709084.png" width="190" height="auto" />
