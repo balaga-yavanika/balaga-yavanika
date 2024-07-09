@@ -2,7 +2,14 @@
 
 ![Header](github-header-image.png)
 <p style="font-size:20px">
-Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" style=" vertical-align:bottom"/>, <span style="font-size:50px">I'm Yavanika Balaga.</span></p>
+Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" style=" vertical-align:bottom"/>,</p>
+
+\begin{document}
+
+\Huge
+\textbf{I'm Yavanika}
+
+\end{document}
 
 
 <!-- <img src="octocat-1720527709084.png" width="90" height="auto" /> -->
