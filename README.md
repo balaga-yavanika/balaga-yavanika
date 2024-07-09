@@ -10,7 +10,7 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="15" height="15" style="vertical-align:middle"/> I’m currently learning: Data Skills</p> 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="15" height="15" style=" vertical-align:middle" /> Data-Fact: The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.</p>
 
-<!-- <h5 align= "left">🥂 Thanks for stopping by. 🥂</h5> -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaga-yavanika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4" alt="balaga-yavanika"/></p> 
 <h2>
@@ -49,6 +49,7 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
   </tr>
 </table>
 
+<h3 align= "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /></h3> 
 
 <!--
 **balaga-yavanika/balaga-yavanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
