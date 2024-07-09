@@ -1,21 +1,27 @@
+<style>
+.noline{ 
+    display: inline;
+    border-bottom: none;
+}
+</style>
+
 ![Header](github-header-image.png)
-<h1 align="center">
-Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" style=" vertical-align:bottom"/>, I'm Yavanika Balaga.
-</h1>
+<h2 class="noline" align="left">
+Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" style=" vertical-align:bottom"/>,<br>
+<h1 style="font-size: 40px">I'm Yavanika Balaga.</h1>
+</h2>
 
 <!-- <img src="octocat-1720527709084.png" width="90" height="auto" /> -->
 <!-- <img src="octocat-1720527709084.png" width="190" height="auto" />
   <div> -->
-<h3 align= "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20" style=" vertical-align:middle" /> A passionate DA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20" style=" vertical-align:middle"/></h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20" style=" vertical-align:middle" /> A passionate Data-Enthusiaist <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20" style=" vertical-align:middle"/></h3>
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="15" height="15" style="vertical-align:middle"/> I’m currently learning: Data Skills</p>
-
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="15" height="15" style="vertical-align:middle"/> I’m currently learning: Data Skills</p> 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="15" height="15" style=" vertical-align:middle" /> Data-Fact: The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.</p>
 
 <!-- <h5 align= "left">🥂 Thanks for stopping by. 🥂</h5> -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaga-yavanika&label=Profile%20views&color=0e75b6&style=flat" alt="balaga-yavanika" /> </p> -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balaga-yavanika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4" alt="balaga-yavanika"/></p> 
 <h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" style="vertical-align:middle" /> GitHub Trophies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" style="vertical-align:middle"/></h2>
 
