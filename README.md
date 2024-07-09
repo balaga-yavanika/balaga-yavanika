@@ -3,7 +3,7 @@
 <!-- <img src="octocat-1720527709084.png" width="90" height="auto" /> -->
 <!-- <img src="octocat-1720527709084.png" width="190" height="auto" />
   <div> -->
-<h3 align= "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="25" height="25" style=" vertical-align:middle" /> A passionate DA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="25" height="25" style=" vertical-align:middle"/><h3>
+<h3 align= "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="25" height="25" style=" vertical-align:bottom" /> A passionate DA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="25" height="25" style=" vertical-align:bottom"/><h3>
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" style="vertical-align:bottom"/> I’m currently learning: Data Skills</p>
 
