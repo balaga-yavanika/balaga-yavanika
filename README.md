@@ -1,8 +1,8 @@
 
 
 ![Header](github-header-image.png)
-<h3 class="noline" align="left">
-Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" style=" vertical-align:bottom"/>,</h3>
+<h3 style="display:inline">
+Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" style=" vertical-align:bottom"/>,</h3>
 <h1 style="font-size: 40px">I'm Yavanika Balaga.</h1>
 
 
