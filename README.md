@@ -6,7 +6,7 @@
 Hello <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45"/></sub>, I'm Balaga Yavanika.</h1>
 
 <!-- HEADING 2 -->
-<h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/> A passionate Data-Enthusiaist <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></h3>
+<h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub> A passionate Data-Enthusiaist <sub></sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub</h3>
 
 <!-- PERSONAL INFO -->
 <p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20"/></sub> I’m currently learning: Data Skills</p> 
@@ -45,7 +45,7 @@ Hello <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animat
   <img src="https://github-trophies.vercel.app/?username=balaga-yavanika&ma&row=1&&column=7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
-<!-- STATS -->
+<!-- GITHUB STATS -->
 <h2 ALIGN="CENTER">
  <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30"/></sub> GitHub Stats <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /></sub>
 </h2>
