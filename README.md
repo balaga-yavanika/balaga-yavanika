@@ -32,7 +32,7 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="sqlserver-SVG-icons.png" width="47" height="47" style="margin:0px 6px 0px 0px"/> 
+    <img src="sqlserver-SVG-icons.png" width="49" height="49"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,latex,py,ps,figma"/>
   </a>
 </p>
