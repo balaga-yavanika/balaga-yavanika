@@ -1,10 +1,10 @@
 <!-- BANNER IMAGE -->
-![Header](gh-banner.png)
+[![Header](gh-banner.png)](https://www.yavanikaportfolio.crc.co)
 
 
 <!-- HEADING 1 -->
 <h1 align="left" >
-Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45"/></sub>, I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman.png" alt="Woman" width="80" height="80" /></h1>
+Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45"/></sub>, I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman.png" alt="Woman" width="90" height="90" /></h1>
 
 
 <!-- HEADING 2 -->
