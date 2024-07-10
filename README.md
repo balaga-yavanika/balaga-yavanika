@@ -18,13 +18,13 @@ Hi there <sub>
 <br>
 <!-- PROFILE VIEWS -->
 <a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=balaga-yavanika&label=Yavi's%20Profile%20Views&icon=3&pretty=true" width="25%"/></a>
+<img src="https://visitcount.itsvg.in/api?id=balaga-yavanika&label=Yavi's%20Profile%20Views&icon=3&pretty=true" width="auto"/></a>
 <!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=balaga-yavanika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4" alt="balaga-yavanika"/>
 </p> -->
 <!-- CONNECT WITH ME -->
-<h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub> Connect with Me <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub></h3>
+<h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub> Connect with Me <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub></h3>
 <p align="left">
 <a href="https://linkedin.com/in/balaga-yavanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaga-yavanika" height="30" width="40" /></a>
 <a href="https://www.behance.net/balagayavanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="balagayavanika" height="30" width="40" /></a>
