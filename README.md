@@ -3,32 +3,33 @@
 
 <!-- HEADING 1 -->
 <h1>
-Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" style=" vertical-align:bottom"/>, I'm Balaga Yavanika.</h1>
+Hello <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45"/></sub>, I'm Balaga Yavanika.</h1>
 
 <!-- HEADING 2 -->
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20" style=" vertical-align:middle" /> A passionate Data-Enthusiaist <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20" style=" vertical-align:middle"/></h3>
 
 <!-- PERSONAL INFO -->
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="15" height="15" style="vertical-align:middle"/> I’m currently learning: Data Skills</p> 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="15" height="15" style=" vertical-align:middle" /> Data-Fact: The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.</p>
+<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20"/></sub> I’m currently learning: Data Skills</p> 
+<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="20" height="20"/></sub> Data-Fact: The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.</p>
 
 <!-- PROFILE VIEWS -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balaga-yavanika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4" alt="balaga-yavanika"/></p> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=balaga-yavanika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4" alt="balaga-yavanika"/>
+</p> 
 
 <!-- CONNECT WITH ME -->
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" style="vertical-align:middle"/> Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" style="vertical-align:middle"/></h3>
+<h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub> Connect with Me <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub></h3>
 <p align="left">
 <a href="https://linkedin.com/in/balaga-yavanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaga-yavanika" height="30" width="40" /></a>
-
-<object data="https://img.shields.io/badge/download_my_resume-8a2be2?style=for-the-badge&label=%E2%86%93&labelColor=%230073FF&color=%23FFB71B&link=https%3A%2F%2Fgithub.com%2Fbalaga-yavanika" width="auto" height="auto">
-</object>
+<a href="https://www.behance.net/balagayavanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="balagayavanika" height="30" width="40" /></a>
+  
+[![Download My Resume](https://img.shields.io/badge/download_my_resume-8a2be2?style=for-the-badge&label=%E2%86%93&labelColor=%230073FF&color=%23FFB71B)](https://github.com/balaga-yavanika)
 
 <!-- <a href="https://instagram.com/yavanika.b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yavanika.b" height="30" width="40" /></a> -->
-<a href="https://www.behance.net/balagayavanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="balagayavanika" height="30" width="40" /></a>
 </p>
 
 <!-- TOOLS | SKILLS -->
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" style="vertical-align:middle"/> Languages & Skills Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" style="vertical-align:middle"/></h3>
+<h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" style="vertical-align:middle"/></sub> Languages & Skills Stack <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" style="vertical-align:middle"/></sub></h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
