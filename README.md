@@ -15,12 +15,6 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
 <!-- PROFILE VIEWS -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaga-yavanika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4" alt="balaga-yavanika"/></p> 
 
-<!-- TROPHIES -->
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" style="vertical-align:middle" /> GitHub Trophies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" style="vertical-align:middle"/></h2>
-
-![](https://github-trophies.vercel.app/?username=balaga-yavanika&ma&row=1&&column=7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
 <!-- CONNECT WITH ME -->
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" style="vertical-align:middle"/> Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" style="vertical-align:middle"/></h3>
 <p align="left">
@@ -37,33 +31,41 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" style="vertical-align:middle"/> Languages & Skills Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" style="vertical-align:middle"/></h3>
 
 <p align="left">
-
   <a href="https://skillicons.dev">
-    <img src="sqlserver-SVG-icons.png" width="47" height="47" style="margin:0px 6px 0px 0px"/> 
+    <img src="sqlserver-SVG-icons.png" width="49" height="49"/>&nbsp;
     <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,latex,py,ps,figma"/>
-    
   </a>
 </p>
 
-<!-- STATS -->
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align:bottom"/> GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align:bottom" /> </h2>
+<!-- TROPHIES -->
+<h2 align="center">
+<sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30"/></sub> GitHub Trophies <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30"/></sub></h2>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=balaga-yavanika&ma&row=1&&column=7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"/>
+</div>
 
-<table width="100%">
+<!-- STATS -->
+<h2 ALIGN="CENTER">
+ <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30"/></sub> GitHub Stats <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /></sub>
+</h2>
+<table align="center"> <!-- TABLE STATS -->
   <tr>
     <th>
-    <img src="https://github-readme-stats.vercel.app/api?username=balaga-yavanika&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&show=reviews&hide=contribs&" width="auto" height="120">
+    <img src="https://github-readme-stats.vercel.app/api?username=balaga-yavanika&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&show=reviews&hide=contribs&" width="160%" height="150">
     </th>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=balaga-yavanika&theme=tokyonight&hide_border=true" width="auto" height="120"></th>
+    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=balaga-yavanika&theme=tokyonight&hide_border=true" width="120%" height="150"></th>
+  </tr>
+    <tr>
+    <th colspan="2">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaga-yavanika&theme=tokyonight" alt="Profile Summary Graph" width="100%" height="auto"/>
+    </th>
   </tr>
 </table>
 
-<table>
-  <tr>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaga-yavanika&theme=tokyonight" alt="Profile Summary Graph" width="auto" height="130"/>
-  </tr>
-</table>
-
-<h3 align= "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /></h3> 
+<!-- THANKS -->
+<h3 align= "center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
+</h3> 
 
 <!--
 **balaga-yavanika/balaga-yavanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
