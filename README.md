@@ -17,9 +17,12 @@ Hi there <sub>
 <br>
 <br>
 <!-- PROFILE VIEWS -->
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=balaga-yavanika&label=Yavi's%20Profile%20Views&icon=3&pretty=true" width="20%"/></a>
+<!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=balaga-yavanika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4" alt="balaga-yavanika"/>
-</p> 
+</p> -->
 
 <!-- CONNECT WITH ME -->
 <h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub> Connect with Me <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub></h3>
