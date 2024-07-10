@@ -4,7 +4,7 @@
 <!-- HEADING 1 -->
 <h1>
 Hi there <sub>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45"/></sub>, </h1> ![](index.html)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45"/></sub>, <img src="https://latex.codecogs.com/svg.image?%5Cinline%20%5Chuge%20%5Cbg%7Bwhite%7D%5CHuge%5Ctextbf%7BI'm%20Balaga%20Yavanika%7D" /></h1>
 
 <!-- HEADING 2 -->
 <h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub> A passionate Data-Enthusiaist <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub</h3>
