@@ -9,18 +9,19 @@ Hi there <sub>
 <!-- HEADING 2 -->
 <h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub> A passionate Data-Enthusiaist <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub</h3>
 <br>
+<br>
 <!-- PERSONAL INFO -->
-
-<sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20"/></sub> I’m currently learning: Data Skills.
-
 <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="20"     height="20"/> Data-Fact: The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.
+<sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20"/></sub> I’m currently learning: Data Skills.
 </p>
-
+<p>
+<sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="20"     height="20"/></sub> Data-Fact: The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.
+</p>
+<br>
 <!-- PROFILE VIEWS -->
 <div>
 <a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=balaga-yavanika&label=Yavi's%20Profile%20Views&icon=3&pretty=true" width="auto"/></a>
+<img src="https://visitcount.itsvg.in/api?id=balaga-yavanika&label=Yavi's%20Profile%20Views&icon=3&pretty=true" width="30%"/></a>
 </div>
 <!--
 <p align="left">
