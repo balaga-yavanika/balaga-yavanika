@@ -89,13 +89,13 @@ Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Ani
 <table align="center"> <!-- TABLE STATS -->
   <tr>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=balaga-yavanika&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&show=reviews&hide=contribs&" width="160%" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=balaga-yavanika&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&show=reviews&hide=contribs&" width="160%" height="150">
     </td>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=balaga-yavanika&theme=tokyonight&hide_border=true" width="120%" height="150"></th>
+    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=balaga-yavanika&theme=github_dark&hide_border=true" width="120%" height="150"></th>
   </tr>
     <tr>
     <td colspan="2">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaga-yavanika&theme=tokyonight" alt="Profile Summary Graph" width="100%" height="auto"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaga-yavanika&theme=github_dark" alt="Profile Summary Graph" width="100%" height="auto"/>
     </td>
   </tr>
 </table>
