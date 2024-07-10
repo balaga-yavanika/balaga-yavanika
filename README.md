@@ -102,8 +102,19 @@ Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Ani
 
 <!-- THANKS -->
 <h3 align= "center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Thanks for swinging by my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 </h3> 
+
+<!-- STAR -->
+<div align="center">
+	<h4>If this repo made you smile, give it a <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /></sub> and watch it shine like a disco ball !!</h4>
+</div>
+
+<!-- waving footer -->
+<div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3a0ca3&section=footer&textBg=false" width="100%" />
+</div>
+
 
 <!--
 **balaga-yavanika/balaga-yavanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
