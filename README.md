@@ -48,7 +48,7 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
 <!-- STATS -->
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align:bottom"/> GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align:bottom" /> </h2>
 
-<table>
+<table width="100%">
   <tr>
     <th>
     <img src="https://github-readme-stats.vercel.app/api?username=balaga-yavanika&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&show=reviews&hide=contribs&" width="auto" height="120">
@@ -59,7 +59,7 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
 
 <table>
   <tr>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaga-yavanika&theme=tokyonight" alt="Profile Summary Graph" width="full-width" height="130"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaga-yavanika&theme=tokyonight" alt="Profile Summary Graph" width="auto" height="130"/>
   </tr>
 </table>
 
