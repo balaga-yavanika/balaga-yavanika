@@ -51,15 +51,15 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
 <table>
   <tr>
     <th>
-    <img src="https://github-readme-stats.vercel.app/api?username=balaga-yavanika&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&show=reviews&hide=contribs&" width="auto" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=balaga-yavanika&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&show=reviews&hide=contribs&" width="auto" height="120">
     </th>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=balaga-yavanika&theme=tokyonight&hide_border=true" width="auto" height="150"></th>
+    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=balaga-yavanika&theme=tokyonight&hide_border=true" width="auto" height="120"></th>
   </tr>
 </table>
 
 <table>
   <tr>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaga-yavanika&theme=tokyonight" alt="Profile Summary Graph" width="auto" height="auto"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaga-yavanika&theme=tokyonight" alt="Profile Summary Graph" width="full-width" height="130"/>
   </tr>
 </table>
 
