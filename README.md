@@ -10,7 +10,7 @@ Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Ani
 <br>
 <br>
 <!-- PERSONAL INFO -->
-<sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /></sub> I’m currently learning: Data Skills.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /> I’m currently learning: Data Skills.
 <br>
 <p align="left">
 <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20"/></sub> I’m currently learning: Data Skills.
