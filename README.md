@@ -47,6 +47,7 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
 
 <!-- STATS -->
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align:bottom"/> GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align:bottom" /> </h2>
+
 <table>
   <tr>
     <th>
@@ -54,12 +55,13 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
     </th>
     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=balaga-yavanika&theme=tokyonight&hide_border=true" width="auto" height="150"></th>
   </tr>
+</table>
+
+<table>
   <tr>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaga-yavanika&theme=tokyonight" alt="Profile Summary Graph" width="auto" height="auto"/>
   </tr>
 </table>
-
-
 
 <h3 align= "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /></h3> 
 
