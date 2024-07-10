@@ -3,8 +3,8 @@
 
 
 <!-- HEADING 1 -->
-<h1 align="left">
-Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45"/></sub>, I'm Yavanika.</h1>
+<h1 align="left" >
+Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45"/></sub>, I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman.png" alt="Woman" width="80" height="80" /></h1>
 
 
 <!-- HEADING 2 -->
@@ -21,7 +21,7 @@ Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Ani
 </p>
 
 <p>
-    <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="20" height="20" /></sub> Data-Fact: The largest             data center in the world, covering 6.3 million square feet, is located in Langfang, China.
+    <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="20" height="20" /></sub> Data-Fact: The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.
 </p>
 </div>
 
@@ -63,7 +63,7 @@ Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Ani
 
 
 <!-- TOOLS | SKILLS -->
-<h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" style="vertical-align:middle"/></sub> Languages & Skills Stack <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" style="vertical-align:middle"/></sub></h3>
+<h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /></sub> Languages & Skills Stack <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /></sub></h3>
 
 <div align="left">
 
@@ -74,6 +74,12 @@ Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Ani
 </a>
 
 </div>
+<!-- -->
+<h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /></sub> Developer/Forums <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="29" height="29" /></sub></h3>
+<div align="left">
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</div>
+
 
 <!-- TROPHIES -->
 <h2 align="center">
