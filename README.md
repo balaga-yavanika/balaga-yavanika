@@ -46,16 +46,15 @@ I'm Yavanika.</h1>
 
 <div align="left">
     
-<img src="./images/test.svg">
-
 <a href="https://linkedin.com/in/balaga-yavanika" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaga-yavanika" height="30" width="40" /></a>
+<img src="./images/test.svg" alt="balaga-yavanika" /></a>
+
+<a href="mailto:yavanikabalaga.2313+fgh@gmail.com?subject=From GitHub__" target="blank"></a>
+<img align="left" src="./images/gmail.png" width="100" />
+
   
 <a href="https://www.behance.net/balagayavanika" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="balagayavanika" height="30" width="40" /></a>
-
-<a href=" " target="blank"></a>
-<img align="left" src="./images/gmail.png" width="100" />
 
 <!-- <a href="https://instagram.com/yavanika.b" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yavanika.b" height="30" width="40" /></a> -->
