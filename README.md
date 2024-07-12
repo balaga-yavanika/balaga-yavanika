@@ -29,17 +29,40 @@ I'm Yavanika.</h1>
 <br>
 
 <!-- LINE -->
-<img align="left" src="./images/line.png"/>
-<br/>
+<img align="left" src="./images/line.png" width="80%" />
+
 <!-- 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> -->
+<!-- TOOLS | SKILLS -->
+<h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /></sub> Languages & Skills Stack <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /></sub></h3>
 
-<!--
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=balaga-yavanika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4" alt="balaga-yavanika"/>
-</p> -->
+<div align="left">
+
+<img src="sqlserver-SVG-icons.png" width="49" />
+  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,latex,py,ps,figma"/>
+</a>
+</div>
+
+<br />
+
+<!-- FORUMS / BLOGS -->
+<h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /></sub> Social | Blogs <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="29" height="29" /></sub></h3>
+<div align="left">
+
+<img alt="Yavi Kaggle Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+
+<img alt="Yavi CodePen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+
+<img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+
+<a href="https://www.medium.com" target="_blank">
+<img alt="Yavi Medium Profile" src="./images/medium.svg" width="100" />
+
+</div>
 
 
+<br />
 <!-- CONNECT WITH ME -->
 <h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub> Connect with Me <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub></h3>
 
@@ -68,36 +91,9 @@ I'm Yavanika.</h1>
 
 </div>
 
-
-<!-- TOOLS | SKILLS -->
-<h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /></sub> Languages & Skills Stack <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /></sub></h3>
-
-<div align="left">
-
-<a href=" " target="_blank">
-<img src="sqlserver-SVG-icons.png" width="49" />
-  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,latex,py,ps,figma"/>
-</a>
-</div>
-
-
-
-<!-- FORUMS / BLOGS -->
-<h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /></sub> Social | Blogs <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="29" height="29" /></sub></h3>
-<div align="left">
-
-<img alt="Yavi Kaggle Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-
-<img alt="Yavi CodePen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-
-<img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-
-<a href="https://www.medium.com" target="_blank">
-<img alt="Yavi Medium Profile" src="./images/medium.svg" width="100" />
-
-</div>
-
+<br>
+<!-- LINE -->
+<img align="left" src="./images/line.png" width="80%" />
 
 
 <!-- TROPHIES -->
