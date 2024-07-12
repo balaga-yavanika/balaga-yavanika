@@ -53,7 +53,7 @@ I'm Yavanika.</h1>
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="balagayavanika" height="30" width="40" /></a>
 
 <a href=" " target="blank"></a>
-<img align="left" src="./images/gmail.png" width="15%" />
+<img align="left" src="./images/gmail.png" width="120" />
 
 <!-- <a href="https://instagram.com/yavanika.b" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yavanika.b" height="30" width="40" /></a> -->
@@ -72,8 +72,8 @@ I'm Yavanika.</h1>
 
 <div align="left">
 
-<a href="https://skillicons.dev" target="_blank">
-<img src="sqlserver-SVG-icons.png" width="49" height="49"/>&nbsp;
+<a href=" " target="_blank">
+<img src="sqlserver-SVG-icons.png" width="49" />&nbsp;
   
 <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,latex,py,ps,figma"/>
 </a>
