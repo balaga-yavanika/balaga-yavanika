@@ -49,8 +49,8 @@ I'm Yavanika.</h1>
 <a href="https://linkedin.com/in/balaga-yavanika" target="blank">
 <img src="./images/test.svg" alt="balaga-yavanika" /></a>
 
-<a href="mailto:yavanikabalaga.2313+fgh@gmail.com?subject=From GitHub__" target="blank"></a>
-<img align="left" src="./images/gmail.png" width="100" />
+<a href="mailto:yavanikabalaga.2313+fgh@gmail.com?subject=From GitHub__"></a>
+<img src="./images/gmail.png" width="100" />
 
   
 <a href="https://www.behance.net/balagayavanika" target="blank">
