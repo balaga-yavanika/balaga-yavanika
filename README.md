@@ -27,14 +27,8 @@ I'm Yavanika.</h1>
 </p>
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
-
-<!-- PROFILE VIEWS -->
-<div align="left">
-    <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=balaga-yavanika&label=Yavi's%20Profile%20Views&icon=3&pretty=true" width=auto /></a>
-</div>
 <!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=balaga-yavanika&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4" alt="balaga-yavanika"/>
@@ -67,7 +61,6 @@ I'm Yavanika.</h1>
 <img src="https://img.shields.io/badge/download_my_resume-8a2be2?style=for-the-badge&label=%E2%86%93&labelColor=%230073FF&color=%23FFB71B" width="25%" />
 </a>
 
-<!--[![Download My Resume]()]() -->
 </div>
 
 
@@ -109,6 +102,7 @@ I'm Yavanika.</h1>
   <img src="https://github-trophies.vercel.app/?username=balaga-yavanika&ma&row=1&&column=7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
+
 <!-- GITHUB STATS -->
 <h2 align="center">
  <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30"/></sub> GitHub Stats <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30"/></sub>
@@ -127,15 +121,25 @@ I'm Yavanika.</h1>
   </tr>
 </table>
 
+<br />
+
+<!-- PROFILE VIEWS -->
+<div align="center">
+    <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=balaga-yavanika&label=Yavi's%20Profile%20Views&icon=3&pretty=true" width=auto /></a>
+</div>
+
 <!-- THANKS -->
 <h3 align= "center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Thanks for swinging by my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 </h3> 
 
+
 <!-- STAR -->
 <div align="center">
 	<h4>If this repo made you smile, give it a <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /></sub> and watch it shine like a disco ball !!</h4>
 </div>
+
 
 <!-- waving footer -->
 <div>
