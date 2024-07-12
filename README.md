@@ -54,7 +54,7 @@ I'm Yavanika.</h1>
 
   
 <a href="https://www.behance.net/balagayavanika" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="balagayavanika" height="30" width="40" /></a>
+<img src="./images/behance.svg" /></a>
 
 <!-- <a href="https://instagram.com/yavanika.b" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yavanika.b" height="30" width="40" /></a> -->
@@ -63,8 +63,11 @@ I'm Yavanika.</h1>
 <br />
 
 <div>
-  
-[![Download My Resume](https://img.shields.io/badge/download_my_resume-8a2be2?style=for-the-badge&label=%E2%86%93&labelColor=%230073FF&color=%23FFB71B)](https://github.com/balaga-yavanika)
+<a href="https://github.com/balaga-yavanika" target="blank" >
+<img src="https://img.shields.io/badge/download_my_resume-8a2be2?style=for-the-badge&label=%E2%86%93&labelColor=%230073FF&color=%23FFB71B" width="25%" />
+</a>
+
+<!--[![Download My Resume]()]() -->
 </div>
 
 
@@ -74,7 +77,7 @@ I'm Yavanika.</h1>
 <div align="left">
 
 <a href=" " target="_blank">
-<img src="sqlserver-SVG-icons.png" width="49" />&nbsp;
+<img src="sqlserver-SVG-icons.png" width="49" />
   
 <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,latex,py,ps,figma"/>
 </a>
