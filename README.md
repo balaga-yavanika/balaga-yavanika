@@ -92,8 +92,8 @@ I'm Yavanika.</h1>
 
 <img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 
-<a href=" " target="_blank">
-<img alt="Yavi Medium Profile" align="left" src="./images/medium.svg" width="100" />
+<a href="https://www.medium.com" target="_blank">
+<img alt="Yavi Medium Profile" src="./images/medium.svg" width="100" />
 
 </div>
 
