@@ -26,8 +26,13 @@ I'm Yavanika.</h1>
     <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="20" height="20" /></sub> Data-Fact: The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.
 </p>
 </div>
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<!-- LINE -->
+<img align="left" src="./images/line.png"/>
+<br/>
+<!-- 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> -->
 
 <!--
 <p align="left">
