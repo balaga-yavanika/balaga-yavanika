@@ -49,8 +49,8 @@ I'm Yavanika.</h1>
 <a href="https://linkedin.com/in/balaga-yavanika" target="blank">
 <img src="./images/test.svg" alt="balaga-yavanika" /></a>
 
-<a href="mailto:yavanikabalaga.2313+fgh@gmail.com?subject=From GitHub__"></a>
-<img src="./images/gmail.png" width="100" />
+<a href="mailto:yavanikabalaga.2313+fgh@gmail.com?subject=From GitHub__">
+<img src="./images/gmail.svg"/></a>
 
   
 <a href="https://www.behance.net/balagayavanika" target="blank">
@@ -93,7 +93,7 @@ I'm Yavanika.</h1>
 <img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 
 <a href=" " target="_blank">
-<img alt="Yavi Medium Profile" align="left" src="./images/medium.png" width="100" />
+<img alt="Yavi Medium Profile" align="left" src="./images/medium.svg" width="100" />
 
 </div>
 
