@@ -53,7 +53,7 @@ I'm Yavanika.</h1>
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="balagayavanika" height="30" width="40" /></a>
 
 <a href=" " target="blank"></a>
-<img src="./images/gmail.png" width="15%" />
+<img align="left" src="./images/gmail.png" width="15%" />
 
 <!-- <a href="https://instagram.com/yavanika.b" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yavanika.b" height="30" width="40" /></a> -->
@@ -92,7 +92,7 @@ I'm Yavanika.</h1>
 <img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 
 <a href=" " target="_blank">
-<img alt="Yavi Medium Profile" src="./images/medium.png" width="20%" />
+<img alt="Yavi Medium Profile" align="left" src="./images/medium.png" width="120" />
 
 </div>
 
