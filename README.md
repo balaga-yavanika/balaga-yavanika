@@ -83,9 +83,13 @@ I'm Yavanika.</h1>
 <div align="left">
 
 <img alt="Yavi Kaggle Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+
 <img alt="Yavi CodePen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+
 <img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-<img alt="Yavi Medium Profile" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+
+<a href=" " target="_blank">
+<img alt="Yavi Medium Profile" src="./images/medium.png" width="120" />
 
 </div>
 
