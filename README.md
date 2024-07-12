@@ -5,10 +5,10 @@
 
 <h1 align="left">
 Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /></sub>,
-I'm Yavanika. <sup><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman.png" alt="Woman" width="80" height="80" /></sup></h1>
+I'm Yavanika.</h1>
 
+<!-- <sup><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman.png" alt="Woman" width="80" height="80" /></sup> -->
 
-<br>
 <!-- HEADING 2 -->
 <div>
     <h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub> A passionate Data-Enthusiaist <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub</h3>
