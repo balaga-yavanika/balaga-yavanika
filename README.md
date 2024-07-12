@@ -74,13 +74,21 @@ I'm Yavanika.</h1>
   
 <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,latex,py,ps,figma"/>
 </a>
+</div>
+
+
+
+<!-- FORUMS / BLOGS -->
+<h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /></sub> Social | Blogs <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="29" height="29" /></sub></h3>
+<div align="left">
+
+<img alt="Yavi Kaggle Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+<img alt="Yavi CodePen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+<img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+<img alt="Yavi Medium Profile" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 
 </div>
-<!-- -->
-<h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /></sub> Developer/Forums <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="29" height="29" /></sub></h3>
-<div align="left">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</div>
+
 
 
 <!-- TROPHIES -->
