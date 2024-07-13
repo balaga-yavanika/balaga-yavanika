@@ -86,7 +86,7 @@ I'm Yavanika.</h1>
 
 <div>
 <a href="https://github.com/balaga-yavanika" target="blank" >
-<img src="https://img.shields.io/badge/download_my_resume-8a2be2?style=for-the-badge&label=%E2%86%93&labelColor=%230073FF&color=%23FFB71B" width="25%" />
+<img src="https://img.shields.io/badge/download_my_resume-8a2be2?style=for-the-badge&label=%E2%86%93&labelColor=%230073FF&color=%23FFB71B"  />
 </a>
 
 </div>
