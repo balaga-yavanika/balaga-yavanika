@@ -29,7 +29,7 @@ I'm Yavanika.</h1>
 <br>
 
 <!-- LINE -->
-<img align="left" src="./images/line.png" width="80%" />
+<img align="center" src="./images/line.png" width="80%" />
 
 <!-- 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> -->
@@ -84,16 +84,25 @@ I'm Yavanika.</h1>
 </div>
 <br />
 
+<!-- Resume | Portfolio -->
 <div>
-<a href="https://github.com/balaga-yavanika" target="blank" >
-<img src="https://img.shields.io/badge/download_my_resume-8a2be2?style=for-the-badge&label=%E2%86%93&labelColor=%230073FF&color=%23FFB71B"  />
-</a>
-
+  <div align="left">
+		<a href="https://github.com/balaga-yavanika" target="blank" >
+		<img src="https://img.shields.io/badge/download_my_resume-8a2be2?style=for-the-badge&label=%E2%86%93&labelColor=%230073FF&color=%23FFB71B"  /></a>
+	</div>
+  <div align="right">
+  <table>
+   <tr>
+		<td><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="20" height="20" /></sub> Visit My Portfolio</td>
+   </tr>
+  </table>
+  </div>
 </div>
+
 
 <br>
 <!-- LINE -->
-<img align="left" src="./images/line.png" width="80%" />
+<img align="center" src="./images/line.png" width="80%" />
 
 
 <!-- TROPHIES -->
