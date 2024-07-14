@@ -35,6 +35,9 @@ I'm Yavanika.</h1>
 
 <!-- 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> -->
+
+
+
 <!-- TOOLS | SKILLS -->
 <h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /></sub> Languages & Skills Stack <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /></sub></h3>
 
@@ -48,24 +51,38 @@ I'm Yavanika.</h1>
 
 <br />
 
+
+
 <!-- FORUMS / BLOGS -->
-<h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /></sub> Social | Blogs <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="29" height="29" /></sub></h3>
+<h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /></sub> Tech Communities <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="29" height="29" /></sub></h3>
 <div align="left">
+
+<a href=" " target="_blank">
+<img alt="Yavi hackerrank Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> 
+
+<a href=" " target="_blank">
+<img alt="Yavi leetcode Profile" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
 
 <img alt="Yavi Kaggle Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 
+<!-- <a href="https://dev.to/yavanika-b" target="_blank"> <img alt="Yavi Dev.to Profile" src="./images/dev.svg" width="100" /></a> -->
+
+<a href="https://dev.to/yavanika-b" target="_blank">
+<img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+
+<!-- <a href="https://www.medium.com" target="_blank"> <img alt="Yavi Medium Profile" src="./images/medium.svg" width="100" /></a>  -->
+
+<a href="https://www.medium.com" target="_blank">
+<img alt="Yavi Medium Profile" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+
 <img alt="Yavi CodePen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-
-<a href="https://www.medium.com" target="_blank">
-<img alt="Yavi Dev.to Profile" src="./images/dev.svg" width="100" />
-
-<a href="https://www.medium.com" target="_blank">
-<img alt="Yavi Medium Profile" src="./images/medium.svg" width="100" />
 
 </div>
 
-
 <br />
+
+
+
 <!-- CONNECT WITH ME -->
 <h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub> Connect with Me <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub></h3>
 
@@ -74,34 +91,42 @@ I'm Yavanika.</h1>
 <a href="https://linkedin.com/in/balaga-yavanika" target="blank">
 <img src="./images/test.svg" alt="balaga-yavanika" /></a>
 
-<a href="mailto:yavanikabalaga.2313+fgh@gmail.com?subject=From GitHub__">
-<img src="./images/gmail.svg"/></a>
-
-  
 <a href="https://www.behance.net/balagayavanika" target="blank">
 <img src="./images/behance.svg" /></a>
+
+<a href="mailto:yavanikabalaga.2313+fgh@gmail.com?subject=From GitHub__">
+<img src="./images/gmail.svg"/></a>
 
 <!-- <a href="https://instagram.com/yavanika.b" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yavanika.b" height="30" width="40" /></a> -->
 
 </div>
-<br />
+<br >
 
 <!-- Resume | Portfolio -->
+
+<div align="center">
+<div >
+<a href=" " target="blank" >
+<img src="./images/resume-img.svg" width="200" align="left"/></a>
+</div>
 <div>
-  <div align="left">
-		<a href="https://github.com/balaga-yavanika" target="blank" >
-		<img src="https://img.shields.io/badge/download_my_resume-8a2be2?style=for-the-badge&label=%E2%86%93&labelColor=%230073FF&color=%23FFB71B"  /></a>
-	</div>
-  <div align="right">
-  <table>
-   <tr>
-		<td><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="20" height="20" /></sub> Visit My Portfolio</td>
-   </tr>
-  </table>
-  </div>
+<a href="https://www.yavanikaportfolio.crd.co" target="blank" >
+<img src="./images/portfolio-img.svg" width="200" align="right" /></a>
+</div>
 </div>
 
+<!--
+<div align="right">
+<table>
+<tr>
+<td> <a href=" "><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="19" height="19" /></sub> <span>Download My Resume</span></a></td>
+<td><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Minus.png" alt="Minus" width="25" height="25" /></sub></td>
+<td><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="20" height="20" /></sub> Visit My Portfolio</td>
+</tr>
+</table>
+</div> 
+-->
 
 <br>
 <!-- LINE -->
