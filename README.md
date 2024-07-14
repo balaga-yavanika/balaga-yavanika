@@ -19,12 +19,14 @@ I'm Yavanika.</h1>
 <!-- PERSONAL INFO -->
 <div align="left">
 <p>
-    <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /></sub> I’m currently learning: Data Skills.
+    <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /></sub> <strong><em>I’m currently learning:</em></strong> Data Skills.
 </p>
 
 <p>
-    <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="20" height="20" /></sub> Data-Fact: The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.
+    <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="20" height="20" /></sub> <strong><em>Data-Fact:</em></strong> The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.
 </p>
+
+<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /></sub> <strong><em>I’m currently working on: </em></strong> ...</p>
 </div>
 <br>
 
@@ -54,7 +56,8 @@ I'm Yavanika.</h1>
 
 <img alt="Yavi CodePen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 
-<img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+<a href="https://www.medium.com" target="_blank">
+<img alt="Yavi Dev.to Profile" src="./images/dev.svg" width="100" />
 
 <a href="https://www.medium.com" target="_blank">
 <img alt="Yavi Medium Profile" src="./images/medium.svg" width="100" />
