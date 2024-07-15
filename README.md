@@ -61,7 +61,7 @@ I'm Yavanika.</h1>
 <a href=" " target="_blank">
 <img alt="Yavi hackerrank Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> 
 
-<a href=" " target="_blank">
+<a href="https://leetcode.com/u/Yavanika-b/" target="_blank">
 <img alt="Yavi leetcode Profile" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
 
 <img alt="Yavi Kaggle Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
