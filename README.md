@@ -113,7 +113,7 @@ I'm Yavanika.</h1>
 <img src="./images/resume-img.svg" width="200" align="left"/></a>
 </div>
 <div>
-<a href="https://www.yavanikaportfolio.crd.co" target="blank" >
+<a href=" " target="blank" >
 <img src="./images/portfolio-img.svg" width="200" align="right" /></a>
 </div>
 </div>
