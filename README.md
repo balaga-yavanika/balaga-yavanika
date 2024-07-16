@@ -1,5 +1,5 @@
 <!-- BANNER IMAGE -->
-[![Header](gh-banner.png)](https://www.yavanikaportfolio.crc.co)
+[![Header](gh-banner.png)]("")
 
 <!-- HEADING 1 -->
 
@@ -61,22 +61,24 @@ I'm Yavanika.</h1>
 <a href=" " target="_blank">
 <img alt="Yavi hackerrank Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> 
 
-<a href="https://leetcode.com/u/Yavanika-b/" target="_blank">
+<a href="" target="_blank"> 
 <img alt="Yavi leetcode Profile" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
 
-<img alt="Yavi Kaggle Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+<a href="" target="_blank"> 
+<img alt="Yavi Kaggle Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 
 <!-- <a href="https://dev.to/yavanika-b" target="_blank"> <img alt="Yavi Dev.to Profile" src="./images/dev.svg" width="100" /></a> -->
 
-<a href="https://dev.to/yavanika-b" target="_blank">
+<a href="" target="_blank">
 <img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 
 <!-- <a href="https://www.medium.com" target="_blank"> <img alt="Yavi Medium Profile" src="./images/medium.svg" width="100" /></a>  -->
 
-<a href="https://www.medium.com" target="_blank">
+<a href="" target="_blank">
 <img alt="Yavi Medium Profile" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
-<img alt="Yavi CodePen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+<a href="" target="_blank">
+<img alt="Yavi CodePen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 
 </div>
 
@@ -89,17 +91,16 @@ I'm Yavanika.</h1>
 
 <div align="left">
     
-<a href="https://linkedin.com/in/balaga-yavanika" target="blank">
+<a href=" " target="blank">
 <img src="./images/test.svg" alt="balaga-yavanika" /></a>
 
-<a href="https://www.behance.net/balagayavanika" target="blank">
+<a href=" " target="blank">
 <img src="./images/behance.svg" /></a>
 
-<a href="mailto:yavanikabalaga.2313+fgh@gmail.com?subject=From GitHub__">
+<a href=" ">
 <img src="./images/gmail.svg"/></a>
 
-<!-- <a href="https://instagram.com/yavanika.b" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yavanika.b" height="30" width="40" /></a> -->
+
 
 </div>
 <br >
