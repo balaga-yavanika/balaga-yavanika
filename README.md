@@ -24,7 +24,7 @@ I'm Yavanika.<img align="right" src="https://raw.githubusercontent.com/Tarikul-I
     <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="20" height="20" /></sub> <strong><em>Data-Fact:</em></strong> The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.
 </p>
 
-<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /></sub> <strong><em>I’m currently working on: </em></strong> ...</p>
+<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /></sub> <strong><em>I’m currently working on: </em></strong> Improving my skills 😁 </p>
 
 <p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /></sub> <strong><em>I sometimes write on:</em></strong> <a href="">Medium Blog</a></p>
 </div>
