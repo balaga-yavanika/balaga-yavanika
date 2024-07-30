@@ -26,7 +26,7 @@ I'm Yavanika Balaga.</h1>
 
 <p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /></sub> <strong><em>I’m currently working on: </em></strong> Improving my skills 😁 </p>
 
-<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /></sub> <strong><em>I sometimes write on:</em></strong> <a href="">Medium Blog</a></p>
+<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /></sub> <strong><em>I sometimes write on:</em></strong> <a href="https://medium.com/@yavanika.b">Medium Blog</a></p>
 </div>
 <br>
 <!-- LINE -->
