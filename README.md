@@ -5,8 +5,8 @@
 
 <h1 align="left">
 Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="48" height="48" /></sub>,
-I'm Yavanika.</h1>
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman.png" alt="Woman" width="80" height="80" />
+I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman.png" alt="Woman" width="80" height="80" />
+</h1>
 
 
 <!-- HEADING 2 -->
