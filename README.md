@@ -1,5 +1,5 @@
 <!-- BANNER IMAGE -->
-[![Header](gh-banner.png)]("")
+[![Header](gh-banner.png)]("w.yavanikaportfolio.crd.co")
 
 <!-- HEADING 1 -->
 
