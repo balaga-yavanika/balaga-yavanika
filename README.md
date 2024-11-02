@@ -89,7 +89,7 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 <!-- CONNECT WITH ME -->
 <h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub> Connect with Me <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub></h3>
 
-<div align="left">
+<div align="center">
     
 <a href=" " target="blank">
 <img src="./images/test.svg" alt="balaga-yavanika" /></a>
@@ -129,7 +129,8 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 </table>
 </div> 
 -->
-
+<br>
+<br>
 <br>
 <!-- LINE -->
 <img align="center" src="./images/line.png"  />
