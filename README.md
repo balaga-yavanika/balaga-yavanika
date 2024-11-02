@@ -92,7 +92,7 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 <div align="center">
     
 <a href=" " target="blank">
-<img src="./images/test.svg" alt="balaga-yavanika" /></a>
+<img src="./images/test.svg" alt="balaga-yavanika" /></a> 
 
 <a href=" " target="blank">
 <img src="./images/behance.svg" /></a>
