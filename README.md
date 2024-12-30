@@ -1,5 +1,5 @@
 <!-- BANNER IMAGE -->
-[![Header](gh-banner.png)]("https://yaviportfolio.carrd.co/")
+[![Header](gh-banner.png)](https://yaviportfolio.carrd.co/)
 
 <!-- HEADING 1 -->
 
