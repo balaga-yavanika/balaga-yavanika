@@ -11,7 +11,7 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 
 <!-- HEADING 2 -->
 <div>
-    <h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub> A passionate -Enthusiaist <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub</h3>
+    <h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub> A passionate - Data Enthusiaist <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub</h3>
 </div>
 <br>
 
@@ -19,7 +19,7 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 <!-- PERSONAL INFO -->
 <div align="left">
 <p>
-    <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /></sub> <strong><em>I’m currently learning:</em></strong> Skills.
+    <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /></sub> <strong><em>I’m currently learning:</em></strong> Data Skills.
 </p>
 
 <p>
