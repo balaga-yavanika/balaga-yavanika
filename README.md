@@ -28,7 +28,7 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 
 <p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /></sub> <strong><em>I’m currently working on: </em></strong> Improving my skills 😁 </p>
 
-<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /></sub> <strong><em>I sometimes write on:</em></strong> <a href="https://medium.com/@yavanika.b">My Medium Blog</a></p>
+<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /></sub> <strong><em>I sometimes write on:</em></strong> <a href="https://balaga-yavanika.medium.com/">My Medium Blog</a></p>
 </div>
 <br>
 <!-- LINE -->
@@ -74,7 +74,7 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 
 <!-- <a href="https://www.medium.com" target="_blank"> <img alt="Yavi Medium Profile" src="./images/medium.svg" width="100" /></a>  -->
 
-<a href="" target="_blank">
+<a href="https://balaga-yavanika.medium.com/" target="_blank">
 <img alt="Yavi Medium Profile" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
 <a href="" target="_blank">
