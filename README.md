@@ -168,9 +168,13 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 
 <!-- PROFILE VIEWS -->
 <div align="center">
-    <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=balaga-yavanika&label=Yavi's%20Profile%20Views&icon=3&pretty=true" width=auto /></a>
+<!--     <a href="https://visitcount.itsvg.in"> -->
+<!--     <img src="https://visitcount.itsvg.in/api?id=balaga-yavanika&label=Yavi's%20Profile%20Views&icon=3&pretty=true" width=auto /></a> -->
+<img src="https://komarev.com/ghpvc/?username=balaga-yavanika&color=ff69b4&abbreviated=true&style=for-the-badge"/>
+	
 </div>
+
+
 
 <!-- THANKS -->
 <h3 align= "center">
@@ -186,7 +190,8 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 
 <!-- waving footer -->
 <div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3a0ca3&section=footer&textBg=false" width="100%" />
+<!--     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3a0ca3&section=footer&textBg=false" width="100%" /> -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fc4f0a&section=footer&textBg=false" width="100%" />
 </div>
 
 
