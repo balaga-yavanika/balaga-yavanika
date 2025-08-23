@@ -187,9 +187,12 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 	<h4>If this repo made you smile, give it a <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /></sub> and watch it shine like a disco ball !!</h4>
 </div>
 
+<br>
+<br>
 
-<a href="https://www.buymeacoffee.com/whyaweeye25"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=whyaweeye25&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
+<div align="center">
+	<a href="https://www.buymeacoffee.com/whyaweeye25"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="auto" height="200"/></a>
+</div>
 
 <!-- waving footer -->
 <div>
