@@ -188,6 +188,9 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 </div>
 
 
+<a href="https://www.buymeacoffee.com/whyaweeye25"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=whyaweeye25&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
 <!-- waving footer -->
 <div>
 <!--     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3a0ca3&section=footer&textBg=false" width="100%" /> -->
